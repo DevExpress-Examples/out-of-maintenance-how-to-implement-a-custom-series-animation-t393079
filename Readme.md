@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[XYSeriesZoomAndRotateAnimation.cs](./CS/XYSeriesCustomAnimationSample/XYSeriesZoomAndRotateAnimation.cs) (VB: [XYSeriesZoomAndRotateAnimation.vb](./VB/XYSeriesCustomAnimationSample/XYSeriesZoomAndRotateAnimation.vb))**
+<!-- default file list end -->
 # How to: Implement a Custom Series Animation
 
 
